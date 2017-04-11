@@ -36,23 +36,3 @@ function draw() {
 
 - [X] Realizar los "desafíos" propuestos en cada documento HTML del repositorio descargado
 
-### Resultados
-
-**Lunes 10 de abril, 2017. Seminario de Computación Grafica II. Diseño UCH:**
-
-- [ ] Albornoz Valencia, Margarita Aurora
-- [ ] Armijo González, Gonzalo Enrique
-- [X] [Cea Cubillos, Nicole Valentina](https://nicolevalentina.github.io/clase-abril10/)
-- [ ] Lagos Alarcón, Francisco Esteban
-- [X] [Medrano Prieto, Rocío Isabel](https://rociormp.github.io/clase-10-abril/index.html)
-- [ ] Paillas Vega, Francisca Daniela
-- [X] [Parra Aravena, Esteban Alfonso](https://eparraaravena.github.io/clase-p5-1/)
-- [X] [Peña Guajardo, Cristián Rodrigo](https://cristianpenag.github.io/Clase_1_Abril10/)
-- [X] [Reinoso Muñoz, Hans Sebastián](https://reinoreinoso.github.io/10042017/)
-- [X] [Rosales Gajardo, Genisis Elena](https://geniriot.github.io/claseabril10/index.html)
-- [X] [Ruiz Árias, Elizabeth Cristina](https://elizabeth-ruiz.github.io/ejercicio_10_04_2017/)
-- [ ] Saldaña Fuentes, Daniela Katherine
-- [X] [Silva Saldaña, Elizabeth Alejandra](https://elizabeth-ruiz.github.io/ejercicio_10_04_2017/)
-- [ ] Ulloa Mayorga, Constanza Camila
-- [ ] Valdebenito Muñoz, Carolina Isabel
-- [X] [Zumaran Lienlaf, Jonathan Eduardo](https://jzumaranl.github.io/clasep5/)
